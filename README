@@ -1,0 +1,1 @@
+This project is a simple example of how to use Python and Gstreamer to display an Rtsp stream.  The code is written for an Axis P1347 camera, however, it should be easy to modify for other types of camera.  I hope it will serve as a useful introductory example for anyone who wants to use a Gstreamer pipeline in Python.  The code has been tested in Python version 2.7.1.
